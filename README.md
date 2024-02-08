@@ -1,2 +1,2 @@
 # BengalWriter
- Bengali Writing Keyboard made in complete C programming language.
+ Bengali Writing Keyboard (Discontinued)
